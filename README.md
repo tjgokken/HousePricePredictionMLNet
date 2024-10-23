@@ -1,4 +1,4 @@
-﻿This codebase is the companion for the article: [link]. It demonstrates the implementation of machine learning concepts using ML.NET, focusing on building a house price prediction model. The codebase includes:
+﻿This codebase is the companion for the article: [https://tjgokken.com/from-theory-to-reality-understanding-machine-learning-with-mlnet].(https://tjgokken.com/from-theory-to-reality-understanding-machine-learning-with-mlnet) It demonstrates the implementation of machine learning concepts using ML.NET, focusing on building a house price prediction model. The codebase includes:
 
 - **Data Setup**: Loading and preparing the dataset for analysis.
 - **Preprocessing and Feature Engineering**: Transforming categorical data and normalizing features.
